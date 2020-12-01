@@ -1,6 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h2> Hi there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-gu.ribeiro.miranda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gu.ribeiro.miranda@gmail.com)](mailto:gu.ribeiro.miranda@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@gstvribs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gstvribs)](https://twitter.com/gstvribs) [![Linkedin Badge](https://img.shields.io/badge/-gstvribs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvribs/)](https://www.linkedin.com/in/gstvribs/) [![Medium Badge](https://img.shields.io/badge/-@gstvribs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gstvribs/)](https://medium.com/gstvribs)
@@ -38,5 +36,4 @@ Talk to me about
 * Computer -> Give me some good stats for my ego side hahah 
 
 ![Gustavo Ribeiro's Github Stats](https://github-readme-stats.vercel.app/api?username=gstvribs&hide=["issues"]&show_icons=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gstvribs.visitor-badge)
