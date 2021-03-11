@@ -9,7 +9,7 @@ Talk to me about
 - Front-end development using **React and Angular**
 - Backend development using **.NET and Node.js**
 - Relational databases with **SQL Server**, also non relational databases with **MongoDB**
-- Cloud services using these provider **AWS and Azure**
+- Cloud services with **AWS and Azure**
 - Design systems stuff
 
 ## 🎤 Talks
