@@ -21,4 +21,4 @@ My name is Gustavo Ribeiro Miranda • he/him • currently a staff software eng
 ##
 ![Gustavo Ribeiro's Github Stats](https://github-readme-stats.vercel.app/api?username=gstvribs&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gstvribs.visitor-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgstvribs&countColor=%23263759&style=plastic)
