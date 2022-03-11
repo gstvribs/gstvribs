@@ -1,6 +1,6 @@
 <h1> Hi everyone! </h1>
 
-[![Twitter Badge](https://img.shields.io/badge/-@gstvribs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gstvribs)](https://twitter.com/gstvribs) [![Linkedin Badge](https://img.shields.io/badge/-gstvribs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvribs/)](https://www.linkedin.com/in/gstvribs/) [![Medium Badge](https://img.shields.io/badge/-@gstvribs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gstvribs/)](https://medium.com/@gstvribs)
+[![Twitter Badge](https://img.shields.io/badge/-@gstvribs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gstvribs)](https://twitter.com/gstvribs) [![Linkedin Badge](https://img.shields.io/badge/-gstvribs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvribs/)](https://www.linkedin.com/in/gustavo-ribeiro-miranda/) [![Medium Badge](https://img.shields.io/badge/-@gstvribs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gstvribs/)](https://medium.com/@gstvribs)
 
 My name is Gustavo Ribeiro Miranda • he/him • currently a staff software engineer at [CI&T](https://ciandt.com/)
 
